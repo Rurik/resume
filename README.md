@@ -104,9 +104,8 @@ Education and Training
 Presentations and Training Provided
 ---------
 
-{:class="table table-bordered"}
 | Date | Event | Presentation |
-| --- | :---: | ---|
+| --- | :---: | --- |
 | **Oct 2019** | BSidesNOLA (New Orleans) | Black Cats in Coal Mines: Basics of Data Collection and Enterprise Hunting |
  |
 | **Jun 2019** | FIRST | Hunting and Automation Using Open Source Tools |
