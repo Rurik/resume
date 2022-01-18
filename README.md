@@ -107,84 +107,45 @@ Presentations and Training Provided
 | Date | Event | Presentation |
 | --- | :---: | --- |
 | **Oct 2019** | BSidesNOLA (New Orleans) | Black Cats in Coal Mines: Basics of Data Collection and Enterprise Hunting |
- |
-| **Jun 2019** | FIRST | Hunting and Automation Using Open Source Tools |
- |
+|  **Jun 2019** | FIRST | Hunting and Automation Using Open Source Tools |
 | **Apr 2019** | Atlantic Security Conference (AtlSecCon) | Threat Decluttering: Baselining to Spark Joy in your Threat Hunting |
- |
 | **Mar 2019** | RSA Conference | SOC Automation, Enterprise Blueprinting and Hunting Using Open-Source Tools |
- |
 | **Jul 2018** | RSA Conference APJ | Ransomware: Robbed with a Rubber Knife |
- |
 | **Oct 2018** | Webinar with Red Canary | Becoming a Leader: An Inside Look at a Level 4 Threat Hunting Program |
- |
 | **Oct 2018** | Carbon Black Connect | Mining Actionable Threat Intel from Malware |
- |
 | **Jun 2018** | CircleCityCon | Held for Ransom with a Toy Gun |
- |
 | **Apr 2018** | BSides New Orleans | Ransomware: Robbed with a Wooden Gun |
- |
 | **Apr 2018** | RSA Conference | Ransomware and Destructive Attacks |
- |
 | **Oct 2017** | Carbon Black Connect | Threat Hunting Through Time |
- |
 | **Oct 2016** | RSA Charge | Mass Triage - Hunting Polar Bears in a Blizzard |
- |
 | **Aug 2015** | Black Hat Expo Hall | Wolves Among Us: An IR Case Study |
- |
 | **Aug 2015** | Black Hat US Arsenal | Tool demo of Noriben Malware Analysis Sandbox |
- |
 | **Jun 2015** | RSA Federal Executive Briefing | Cybersecurity Threats of the Future panel w/ CISO of DHS ICE and Dr. Ron Ross |
- |
 | **May 2015** | ISSA Charlotte, NC | Attack &amp; Defend: The Evolution of APT Attacks |
- |
 | **Apr 2015** | [RSA Conference](http://web.archive.org/web/20150910204056/https://blogs.rsa.com/rsa-conference-2015-re-think-approach-malware-analysis-leveraging-intelligence/) | Re-Think Your Approach to Malware Analysis by Leveraging Intelligence |
- |
 | **May 2014** | BSides New Orleans | Introducing Intelligence Into Your Malware Analysis |
- |
 | **Nov 2013** | Security BSides Delaware | Malware Analysis for the Masses |
- |
-| **Oct 2013** | Security BSides DC |
- |
-| **Sep 2013** | CyberGamut |
- |
+| **Oct 2013** | Security BSides DC | Malware Analysis for the Masses |
+| **Sep 2013** | CyberGamut | Malware Analysis for the Masses |
 | **May 2012** | NoVA Hackers | Malware Analysis: Java Bytecode |
- |
 | **Jan 2012** | DoD Cybercrime Conference | Malware Carrier File Analysis (2-day Training) |
- |
 | **Nov 2011** | Security BSides Delaware | Walking the Green Mile: How to Get Fired After a Security Incident |
- |
-| **Sep 2011** | DerbyCon |
- |
-| **Aug 2011** | DEFCON SkyTalks |
- |
-| **Aug 2011** | Security BSides Las Vegas |
- |
+| **Sep 2011** | DerbyCon | Walking the Green Mile: How to Get Fired After a Security Incident |
+| **Aug 2011** | DEFCON SkyTalks | Walking the Green Mile: How to Get Fired After a Security Incident |
+| **Aug 2011** | Security BSides Las Vegas | Walking the Green Mile: How to Get Fired After a Security Incident |
 | **Jan 2011** | DoD Cybercrime Conference | Intelligence Gathering over Twitter |
- |
-| **Dec 2010** | DojoCon | P2P Forensics |
- |
-| **Nov 2010** | NCIS / Virginia State Police Cyber Forensic Workshop |
- |
-| **Nov 2010** | Security BSides Delaware |
- |
+| **Dec 2010** | DojoCon | Peer-to-Peer Forensics |
+| **Nov 2010** | NCIS / Virginia State Police Cyber Forensic Workshop | Peer-to-Peer Forensics |
+| **Nov 2010** | Security BSides Delaware | Peer-to-Peer Forensics |
 | **Jan 2010** | DoD Cybercrime Conference | Graphical Log Analysis (2-day Training) |
- |
 | **Nov 2009** | DojoSec | BitTorrent Forensics |
- |
 | **Jan 2009** | DoD Cybercrime Conference | BitTorrent Forensics (2-hour workshop) |
- |
-| **Dec 2008** | USAF ISR Conference |
- |
-| **Jun 2008** | US-CERT GFIRST |
- |
+| **Dec 2008** | USAF ISR Conference | BitTorrent Forensics (2-hour workshop) |
+| **Jun 2008** | US-CERT GFIRST | BitTorrent Forensics|
 | **Jan 2008** | DoD Cybercrime Conference | Wireshark in Depth (2-day Training) |
- |
 | **Jan 2007** | DoD Cybercrime Conference | Analysis of TOR Encrypted Networks |
- |
 | **Jan 2007** | DoD Cybercrime Conference | Penetration Testing Techniques (2-day Training) |
- |
-| **Jan 2006** | DoD Cybercrime Conference |
+| **Jan 2006** | DoD Cybercrime Conference | Penetration Testing Techniques (2-day Training) |
 
 
 Subject Matter Expert Efforts:
