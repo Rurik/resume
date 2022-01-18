@@ -157,19 +157,20 @@ Subject Matter Expert Efforts:
 | **Sep 2006** | Federal Law Enforcement Training Center (FLETC) | Assisted in the redesign of the Internet Investigations Training Program (IITP) |
 | **Jun 2006** | National White Collar Crime Center (NW3C) | Assisted in the creation of the Introduction to Securing Law Enforcement Networks (ISLEN) course |
 
+
 Public Volunteering:
 ---------
 | Date Range | Organization | Context |
 | --- | :---: | ---|
 | **2015 - Present** | BSidesCharm (Baltimore, MD) | President and Board of Directors;  Speaker Committee Chair |
 | **2008 - 2019** | MidAtlantic Collegiate Cyber Defense Competition (MACCDC) | Incident Response LeadWhite cell judge |
-|
+
 
 Relevant Publications and Achievements:
 ---------
 | Date | Item of Note |
 | :---: | --- |
-| **Mar 2021** | [Deconstructing Defray777 Ransomware | VMware Blog](https://blogs.vmware.com/networkvirtualization/2021/03/deconstructing-defray777.html/) |
+| **Mar 2021** | [Deconstructing Defray777 Ransomware - VMware Security](https://blogs.vmware.com/networkvirtualization/2021/03/deconstructing-defray777.html/) |
 | **Jul 2020** | [TAU Threat Discovery: Conti Ransomware](https://blogs.vmware.com/security/2020/07/tau-threat-discovery-conti-ransomware.html) |
 | **Jun 2020** | [TAU Threat Analysis: Medusa Locker Ransomware](https://blogs.vmware.com/security/2020/06/tau-threat-analysis-medusa-locker-ransomware.html) |
 | **Apr 2020** | [TAU Threat Analysis: NetWire Variant Leveraging AutoIt Scripts and Windows Shortcut Links](https://blogs.vmware.com/security/2020/04/tau-threat-analysis-netwire-variant-leveraging-autoit-scripts-and-windows-shortcut-links.html) |
