@@ -17,11 +17,11 @@ Work Experience
 
 *Threat Research Lead, Threat Analysis Unit* (Nov. 2016 - Present)
 
-* Managed a global team of threat researchers and developers
+* Managed a global team of threat researchers and security engineers
 * Led research engineers on cross-product ransomware protections
 * Performed malware reverse engineering tasks for thought leadership and product improvements
-* Directly drove product security improvements and features
-* Cross-functional collaboration with engineering, product management, marketing, sales, and support
+* Drove product security improvements and features
+* Drove cross-functional collaboration with engineering, product management, marketing, sales, and support
 * Assisted customer incident response investigations 
 * Oversaw large-scale engineering and research initiatives
 * Developed custom parsers and modules for malware intake systems
@@ -30,11 +30,11 @@ Work Experience
 
 *Advisory Consultant, Incident Response Practice* (Apr. 2014 - Nov. 2016)
 
-* Lead on investigations into large scale data breaches
-* Develop custom network parsers and signatures to hunt for traffic on emerging malware
+* Led investigations into large scale data breaches
+* Developed custom network parsers and signatures to hunt for traffic on emerging malware
 * Leveraged RSA tool suite of NetWitness and ECAT for incident response visibility
 * Performed Reverse Engineering and Malware analysis for active IR engagements 
-* Worked with team and external groups to map adversaries and tool sets
+* Created collaboration with team and external groups to map adversaries and tool sets
 
 **Defense Computer Forensics Laboratory (Contractor)**
 
@@ -49,9 +49,9 @@ Work Experience
 
 *Senior Consultant* (Nov. 2010 - Apr. 2014)
 
-* Perform digital forensic analysis for a variety of clients with a wide range of services
-* Perform static and dynamic malware analysis to assist in incident response engagements
-* Provide customized security training to clients on behalf of cmdLabs
+* Performed digital forensic analysis for a variety of clients with a wide range of services
+* Performed static and dynamic malware analysis to assist in incident response engagements
+* Provideed customized security training to clients on behalf of cmdLabs
 
 
 **Defense Cyber Investigation Training Academy (CSC Contractor)**
@@ -66,7 +66,7 @@ Work Experience
 
 * 	Led creation of curriculum for the US Secret Service National Computer Forensics Institute (NCFI)
 * 	Managed and led development of seven courses (14 weeks of delivery content) 
-* 	Development was completed on-time and under budget as a true turn-key deliverable
+* 	Development was completed on-time and under budget as a turn-key deliverable
 
 *Instructor / Course Developer* (Jun. 2000 - Sept. 2006)
 
@@ -163,7 +163,7 @@ Public Volunteering:
 | Date Range | Organization | Context |
 | --- | :---: | ---|
 | **2015 - Present** | BSidesCharm (Baltimore, MD) | President and Board of Directors;  Speaker Committee Chair |
-| **2008 - 2019** | MidAtlantic Collegiate Cyber Defense Competition (MACCDC) | Incident Response LeadWhite cell judge |
+| **2008 - 2019** | MidAtlantic Collegiate Cyber Defense Competition (MACCDC) | Incident Response Lead; White cell judge |
 
 
 Relevant Publications and Achievements:
