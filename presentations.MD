@@ -43,6 +43,8 @@ Presentations and Training Provided
 | **Jan 2007** | DoD Cybercrime Conference | Analysis of TOR Encrypted Networks |
 | **Jan 2007** | DoD Cybercrime Conference | Penetration Testing Techniques (2-day Training) |
 | **Jan 2006** | DoD Cybercrime Conference | Penetration Testing Techniques (2-day Training) |
+| **Jan 2005** | DoD Cybercrime Conference | Analysis of Modern Evidence Imaging Software |
+| **Jan 2005** | DoD Cybercrime Conference | Imaging Alternate Media |
 
 
 Subject Matter Expert Efforts:
