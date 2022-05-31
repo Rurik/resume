@@ -15,64 +15,37 @@ Work Experience
 
 **VMware Carbon Black**
 
-*Threat Research Lead, Threat Analysis Unit* (Nov. 2016 - Present)
+*Threat Research Lead and Manager, Threat Analysis Unit* (Nov. 2016 - Present)
 
-* Managed a global team of threat researchers and security engineers
-* Led research engineers on cross-product ransomware protections
-* Performed malware reverse engineering tasks for thought leadership and product improvements
-* Drove product security improvements and features
-* Drove cross-functional collaboration with engineering, product management, marketing, sales, and support
-* Assisted customer incident response investigations 
-* Oversaw large-scale engineering and research initiatives
-* Developed custom parsers and modules for malware intake systems
+
 
 **RSA Security**
 
 *Advisory Consultant, Incident Response Practice* (Apr. 2014 - Nov. 2016)
 
-* Led investigations into large scale data breaches
-* Developed custom network parsers and signatures to hunt for traffic on emerging malware
-* Leveraged RSA tool suite of NetWitness and ECAT for incident response visibility
-* Performed Reverse Engineering and Malware analysis for active IR engagements 
-* Created collaboration with team and external groups to map adversaries and tool sets
+
 
 **Defense Computer Forensics Laboratory (Contractor)**
 
 *Computer Forensic Examiner, Intrusions Team* (Aug. 2011 - Apr. 2014)
 
-* Examiner in the Intrusions (IN) Team as a lead examiner on cases involving network intrusions and advanced malicious software
-* Perform reverse engineering and malware analysis, with specialty in decoding custom network protocols and custom encoding routines
-* Develop on-the-fly analysis and reverse engineering scripts using Python
 
 
 **Newberry Group (acquired from cmdLabs, LLC)**
 
 *Senior Consultant* (Nov. 2010 - Apr. 2014)
 
-* Performed digital forensic analysis for a variety of clients with a wide range of services
-* Performed static and dynamic malware analysis to assist in incident response engagements
-* Provideed customized security training to clients on behalf of cmdLabs
 
 
 **Defense Cyber Investigation Training Academy (CSC Contractor)**
 
 *Deputy Lead Technical Engineer and Distance Learning Lead* (Oct. 2006 - Nov. 2010)
 
-* 	Reviewed and edited technical content for all DCITA courses and deliverables
-* 	Oversaw the design and creation of distance-learning, online courses and mobile training capabilities through unique virtualized desktop Internet training and alumni resource portal.
-* 	Designed and developed turn-key training for US Air Force Basic Military Training in operational security
-
 *Project Manager* (Oct. 2007 - Apr. 2008)
-
-* 	Led creation of curriculum for the US Secret Service National Computer Forensics Institute (NCFI)
-* 	Managed and led development of seven courses (14 weeks of delivery content) 
-* 	Development was completed on-time and under budget as a turn-key deliverable
 
 *Instructor / Course Developer* (Jun. 2000 - Sept. 2006)
 
-* 	Researched, designed, and presented a wide variety of digital forensics investigation course
-* 	Instructed Federal Agents, Investigators, and Civilians in skills that include building forensic workstations, configuring secure networks, using Linux and Sun Solaris as investigative platforms, and performing penetration tests and live network analysis on enterprise networks
-* 	Assisted the CSC Incident Response team in network and computer forensics engagements
+
 
 **Various IT and Programming related positions (Mar. 1997 - Jun. 2000)**
 
@@ -146,7 +119,8 @@ Presentations and Training Provided
 | **Jan 2007** | DoD Cybercrime Conference | Analysis of TOR Encrypted Networks |
 | **Jan 2007** | DoD Cybercrime Conference | Penetration Testing Techniques (2-day Training) |
 | **Jan 2006** | DoD Cybercrime Conference | Penetration Testing Techniques (2-day Training) |
-
+| **Jan 2005** | DoD Cybercrime Conference | Analysis of Modern Evidence Imaging Software |
+| **Jan 2005** | DoD Cybercrime Conference | Imaging Alternate Media |
 
 Subject Matter Expert Efforts:
 ---------
